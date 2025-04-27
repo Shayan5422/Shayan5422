@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/Shayan5422/Shayan5422/dd0a30d6fb8576189453fa75e9a65186fc744032/banner.png]" alt="Banner" width="100%" />
-</p>
+
 
 # 👋 Hi, I’m Shayan Hashemi
 
@@ -91,6 +89,4 @@ I’m an engineer passionate about harnessing **Artificial Intelligence**, **Mac
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shayan5422/Shayan5422/main/footer.png" alt="Footer" width="100%" />
-</p>
+

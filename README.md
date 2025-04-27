@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/Shayan5422/Shayan5422/main/banner.png](https://github.com/Shayan5422/Shayan5422/blob/main/banner.png)" alt="Banner" width="100%" />
+  <img src="[https://github.com/Shayan5422/Shayan5422/blob/main/banner.png]" alt="Banner" width="100%" />
 </p>
 
 # 👋 Hi, I’m Shayan Hashemi

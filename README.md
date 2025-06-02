@@ -84,8 +84,7 @@ I’m an engineer passionate about harnessing **Artificial Intelligence**, **Mac
 ## 📫 Let’s Connect
 
 - **LinkedIn:** [shayan-hashemi-5308081b1](https://www.linkedin.com/in/shayan-hashemi-5308081b1)  
-- **Email:** [shayan.hashemi@example.com](mailto:shayan.hashemi@example.com)  
-- **Twitter:** [@ShayanHashemi](https://twitter.com/ShayanHashemi)  
+- **Email:** [shayan.hashemi@example.com](mailto:shayan.hashemi27@gmail.com)   
 
 > “Innovation in healthcare begins at the intersection of compassion and code.”  
 
